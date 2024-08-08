@@ -1,0 +1,36 @@
+h2 {
+	color: rgb(0,255,0);
+}
+h3 {
+	color: rgb(255,250,0);
+}
+h4 {
+	color: rgb(255, 0, 0);
+}
+h5{
+	color: #ff00ff;
+}
+h6{
+	color: #00ffff;
+}
+.test1{
+	color: #0000ff;
+}
+.test2{
+	color: #00ffaa;
+}
+.test3{
+	color: #ff00aa;
+}
+.test4{
+	color: #aa0000;
+}
+.test5{
+	color: #aa00ff;
+}
+.test6{
+	color: #aaaaaa;
+}
+.test7{
+	color: #00aaff;
+}
